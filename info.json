@@ -1,1 +1,38 @@
+{"name":"Scholar",
+"tokenSymbol":null,
+"DaoOS":"Snapshot",
+"address":null,
+"description":"Scholar believes that science is about independent replication, not prestigious citation. We're realigning science around independent replication by building a reproducible version of our scientific record.",
+"whitePaperLink":null,
+"gallery":[{
+       "name": "Intro",
+       "description": "Intro",
+       "mediaUrl": "https://i.imgur.com/W2aq71y.png",
+       "source": "image",
+       "link": "https://usescholar.org"
+   },  {"name": "Intro",
+       "description": "Intro",
+       "mediaUrl": " https://i.imgur.com/MayVkGn.pnghttps://i.imgur.com/MayVkGn.png",        
+       "source": "image",
+       "link": "https://usescholar.org"},
+ {"name": "Intro",
+       "description": "Intro",
+       "mediaUrl": " https://i.imgur.com/qU44PTh.png",     
+"source": "image",
+       "link": "https://usescholar.org" }
+],
+"deleted":false,
+"primaryColor":"#000000",
+"twitterHandle":"ScholarOrg",
+"coingeckoId":null,
+"snapshotId":null,
+"logo":"https://usescholar.org/logo-bg-1024.png",
+"telegramLink":null,
+"discordLink":null,
+"website":"https://usescholar.org",
+"tokenDescription":null,
+"tokenTradeLink":null,
 
+"tags":["Publishing"]
+  
+}
